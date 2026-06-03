@@ -1,30 +1,20 @@
+# 👋 Hi, I'm Justin Schomer (Caseit1987)
 
-# Justin Schomer
+**Embedded & Financial Infrastructure Security Researcher**  
+Inventor of **ETB AAV LayerZero™** – the first pre‑execution validation framework.
 
-Embedded & Financial Infrastructure Security Researcher
+## 🔥 Featured Product
+[**ETB AAV LayerZero™**](https://github.com/Caseit1987/ETB_AAV_FRAMEWORK)  
+Blocks zero‑click exploits, backdoor commands, and state‑violation attacks at the firmware level.  
+- Patent pending  
+- Live demo included  
+- Evaluation license available
 
-## Focus Areas
-- Embedded systems security (ARM firmware)
-- ATM & financial device security
-- Authentication & validation logic analysis
-- Threat modeling & secure architecture review
-- Defensive security research and documentation
+## 📌 Other Research
+- Embedded firmware analysis & threat modeling  
+- ATM security lab demonstrations (defensive)  
+- Security checklists for financial systems
 
-## Public Work
-- Embedded firmware analysis & threat modeling
-- ATM security lab demonstrations (defensive)
-- Practical security checklists for financial systems
+> All work published here is defensive, educational, and non‑exploitative.
 
-⚠️ All work published here is defensive, educational, and non-exploitative.
-## 📦 Security Products
-
-**ATM Embedded Security Jumpstart Pack**
-
-A defensive security assessment starter pack for ATM operators,
-embedded device teams, and security professionals.
-
-• ATM Security Risk Checklist (PDF)
-• Embedded security usage guide
-• Defensive-only, non-exploit content
-
-👉 Available on Gumroad
+📫 Contact: caseithapp3ns2u2@gmail.com  
